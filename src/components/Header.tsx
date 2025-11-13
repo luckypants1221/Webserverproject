@@ -1,6 +1,6 @@
 import { Sparkles, Trophy } from 'lucide-react';
 import { Avatar, AvatarFallback, AvatarImage } from './ui/avatar';
-import penguinLogo from 'figma:asset/c839abf795c331a2d3295e0cc14b0b60d27d9172.png';
+import penguinLogo from '../assets/Logo.png';
 
 interface HeaderProps {
   userPoints: number;
